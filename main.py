@@ -1,4 +1,3 @@
-from copy import deepcopy
 from PyPDF2 import *
 from pathlib import Path
 from os import listdir
