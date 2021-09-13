@@ -4,6 +4,8 @@ pdfWidener is a simple program used to double the width of pages in a PDF.
 Professors often like to fill the presentation-slides full of text and figures, so for people using tablets to take notes on the slides it's helpful to have some space next to the slides.
 This simple script doubles the width of the pdf-pages.
 
+See [_Week4.pdf_](https://github.com/Eivinddo/pdfWidener/blob/main/Week4.pdf) and [_Week4_wide.pdf_](https://github.com/Eivinddo/pdfWidener/blob/main/Week4_wide.pdf) for an example.
+
 ## Setup
 
 You need to be in an environment with ```PyPDF2```
